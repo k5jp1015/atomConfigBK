@@ -5,11 +5,18 @@
   core:
     disabledPackages: [
       "japanese-wrap"
+      "markdown-preview-plus"
+    ]
+    themes: [
+      "seti-ui"
+      "one-dark-syntax"
     ]
   editor:
     fontSize: 15
     showInvisibles: true
   "exception-reporting":
     userId: "dfd04fc1-4881-835f-80c4-105c52f5a7c6"
+  "markdown-preview":
+    useGitHubStyle: true
   welcome:
     showOnStartup: false
