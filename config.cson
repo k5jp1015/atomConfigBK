@@ -1,0 +1,15 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a272ca5a-bad1-40cd-bd79-7434160ae2e0"
+  core:
+    disabledPackages: [
+      "japanese-wrap"
+    ]
+  editor:
+    fontSize: 15
+    showInvisibles: true
+  "exception-reporting":
+    userId: "dfd04fc1-4881-835f-80c4-105c52f5a7c6"
+  welcome:
+    showOnStartup: false
